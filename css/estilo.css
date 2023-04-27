@@ -1,4 +1,5 @@
-@import url(./cabecalho.css);
+@import url("./cabecalho.css");
+@import url("./rodape.css");
 
 * {
     margin: 0;
