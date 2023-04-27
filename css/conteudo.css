@@ -1,0 +1,14 @@
+.conteudo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.conteudo div{
+    margin: 0 auto;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.conteudo h2 {
+    font-size: 2em;
+}
