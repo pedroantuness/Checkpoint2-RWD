@@ -12,3 +12,16 @@
 .conteudo h2 {
     font-size: 2em;
 }
+
+.conteudo img {
+    width: 50%;
+    height: 50%;
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+}
+
+.conteudo div figcaption {
+    background-color: blueviolet;
+    color: #fff;
+}
